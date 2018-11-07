@@ -44,7 +44,7 @@ event delegateTypeName eventName
 ```
 
 ##### 7. How do delegates recognize event subscriptions? How do you unsubscribe an event from a delegate?
-bu using the += operator and the -= operators respectively
+by using the += operator and the -= operators respectively
 
 ##### 8. How do you raise an event? How do you declare code that raises an event?
 You can raise an event by calling it like a method.
