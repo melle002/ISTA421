@@ -1,5 +1,4 @@
 ﻿@model CartIndexViewModel
-
 <h2>Your cart</h2>
 <table class="table table-bordered table-striped">
     <thead>
@@ -11,7 +10,8 @@
         </tr>
     </thead>
     <tbody>
-        @foreach (var line in Model.Cart.Lines) {
+        @foreach (var line in Model.Cart.Lines)
+        {
             <tr>
                 <td class="text-center">@line.Quantity</td>
                 <td class="text-left">@line.Product.Name</td>
@@ -31,7 +31,6 @@
         </tr>
     </tfoot>
 </table>
-
 <div class="text-center">
     <a class="btn btn-primary" href="@Model.ReturnUrl">Continue shopping</a>
 </div>

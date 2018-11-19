@@ -9,3 +9,14 @@ C:\Users\micha\source\repos\SportsStore\SportsStore\obj\Debug\netcoreapp2.0\Spor
 C:\Users\micha\source\repos\SportsStore\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.AssemblyInfo.cs
 C:\Users\micha\source\repos\SportsStore\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.dll
 C:\Users\micha\source\repos\SportsStore\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.pdb
+C:\Users\micha\MSSA\ISTA421\Labs\ista421asp.netLab07_SportsStore\SportsStore\SportsStore\bin\Debug\netcoreapp2.0\SportsStore.deps.json
+C:\Users\micha\MSSA\ISTA421\Labs\ista421asp.netLab07_SportsStore\SportsStore\SportsStore\bin\Debug\netcoreapp2.0\SportsStore.runtimeconfig.json
+C:\Users\micha\MSSA\ISTA421\Labs\ista421asp.netLab07_SportsStore\SportsStore\SportsStore\bin\Debug\netcoreapp2.0\SportsStore.runtimeconfig.dev.json
+C:\Users\micha\MSSA\ISTA421\Labs\ista421asp.netLab07_SportsStore\SportsStore\SportsStore\bin\Debug\netcoreapp2.0\SportsStore.dll
+C:\Users\micha\MSSA\ISTA421\Labs\ista421asp.netLab07_SportsStore\SportsStore\SportsStore\bin\Debug\netcoreapp2.0\SportsStore.pdb
+C:\Users\micha\MSSA\ISTA421\Labs\ista421asp.netLab07_SportsStore\SportsStore\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.csprojAssemblyReference.cache
+C:\Users\micha\MSSA\ISTA421\Labs\ista421asp.netLab07_SportsStore\SportsStore\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.csproj.CoreCompileInputs.cache
+C:\Users\micha\MSSA\ISTA421\Labs\ista421asp.netLab07_SportsStore\SportsStore\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.AssemblyInfoInputs.cache
+C:\Users\micha\MSSA\ISTA421\Labs\ista421asp.netLab07_SportsStore\SportsStore\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.AssemblyInfo.cs
+C:\Users\micha\MSSA\ISTA421\Labs\ista421asp.netLab07_SportsStore\SportsStore\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.dll
+C:\Users\micha\MSSA\ISTA421\Labs\ista421asp.netLab07_SportsStore\SportsStore\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.pdb

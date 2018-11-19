@@ -1,0 +1,17 @@
+C:\Users\micha\MSSA\ISTA421\Labs\ista421asp.netLab07_SportsStore\SportsStore\SportsStore.Tests\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\micha\MSSA\ISTA421\Labs\ista421asp.netLab07_SportsStore\SportsStore\SportsStore.Tests\bin\Debug\netcoreapp2.0\xunit.runner.utility.netstandard15.dll
+C:\Users\micha\MSSA\ISTA421\Labs\ista421asp.netLab07_SportsStore\SportsStore\SportsStore.Tests\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netstandard15.dll
+C:\Users\micha\MSSA\ISTA421\Labs\ista421asp.netLab07_SportsStore\SportsStore\SportsStore.Tests\bin\Debug\netcoreapp2.0\SportsStore.Tests.deps.json
+C:\Users\micha\MSSA\ISTA421\Labs\ista421asp.netLab07_SportsStore\SportsStore\SportsStore.Tests\bin\Debug\netcoreapp2.0\SportsStore.Tests.runtimeconfig.json
+C:\Users\micha\MSSA\ISTA421\Labs\ista421asp.netLab07_SportsStore\SportsStore\SportsStore.Tests\bin\Debug\netcoreapp2.0\SportsStore.Tests.runtimeconfig.dev.json
+C:\Users\micha\MSSA\ISTA421\Labs\ista421asp.netLab07_SportsStore\SportsStore\SportsStore.Tests\bin\Debug\netcoreapp2.0\SportsStore.Tests.dll
+C:\Users\micha\MSSA\ISTA421\Labs\ista421asp.netLab07_SportsStore\SportsStore\SportsStore.Tests\bin\Debug\netcoreapp2.0\SportsStore.Tests.pdb
+C:\Users\micha\MSSA\ISTA421\Labs\ista421asp.netLab07_SportsStore\SportsStore\SportsStore.Tests\bin\Debug\netcoreapp2.0\SportsStore.dll
+C:\Users\micha\MSSA\ISTA421\Labs\ista421asp.netLab07_SportsStore\SportsStore\SportsStore.Tests\bin\Debug\netcoreapp2.0\SportsStore.pdb
+C:\Users\micha\MSSA\ISTA421\Labs\ista421asp.netLab07_SportsStore\SportsStore\SportsStore.Tests\obj\Debug\netcoreapp2.0\SportsStore.Tests.csprojAssemblyReference.cache
+C:\Users\micha\MSSA\ISTA421\Labs\ista421asp.netLab07_SportsStore\SportsStore\SportsStore.Tests\obj\Debug\netcoreapp2.0\SportsStore.Tests.csproj.CoreCompileInputs.cache
+C:\Users\micha\MSSA\ISTA421\Labs\ista421asp.netLab07_SportsStore\SportsStore\SportsStore.Tests\obj\Debug\netcoreapp2.0\SportsStore.Tests.AssemblyInfoInputs.cache
+C:\Users\micha\MSSA\ISTA421\Labs\ista421asp.netLab07_SportsStore\SportsStore\SportsStore.Tests\obj\Debug\netcoreapp2.0\SportsStore.Tests.AssemblyInfo.cs
+C:\Users\micha\MSSA\ISTA421\Labs\ista421asp.netLab07_SportsStore\SportsStore\SportsStore.Tests\obj\Debug\netcoreapp2.0\SportsStore.Tests.csproj.CopyComplete
+C:\Users\micha\MSSA\ISTA421\Labs\ista421asp.netLab07_SportsStore\SportsStore\SportsStore.Tests\obj\Debug\netcoreapp2.0\SportsStore.Tests.dll
+C:\Users\micha\MSSA\ISTA421\Labs\ista421asp.netLab07_SportsStore\SportsStore\SportsStore.Tests\obj\Debug\netcoreapp2.0\SportsStore.Tests.pdb

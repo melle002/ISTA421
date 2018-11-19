@@ -12539,11 +12539,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\micha\\source\\repos\\SportsStore\\SportsStore\\SportsStore.csproj",
+      "projectUniqueName": "C:\\Users\\micha\\MSSA\\ISTA421\\Labs\\ista421asp.netLab07_SportsStore\\SportsStore\\SportsStore\\SportsStore.csproj",
       "projectName": "SportsStore",
-      "projectPath": "C:\\Users\\micha\\source\\repos\\SportsStore\\SportsStore\\SportsStore.csproj",
+      "projectPath": "C:\\Users\\micha\\MSSA\\ISTA421\\Labs\\ista421asp.netLab07_SportsStore\\SportsStore\\SportsStore\\SportsStore.csproj",
       "packagesPath": "C:\\Users\\micha\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\micha\\source\\repos\\SportsStore\\SportsStore\\obj\\",
+      "outputPath": "C:\\Users\\micha\\MSSA\\ISTA421\\Labs\\ista421asp.netLab07_SportsStore\\SportsStore\\SportsStore\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
